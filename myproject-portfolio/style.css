@@ -26,5 +26,5 @@ nav:hover{transform: scaleX(101%) scaleY(101%);
     transition: 150ms;
     box-shadow: 5px 5px rgba(17, 17, 17, 0.379);}
     #about{margin: 20px;}
-.book{background-color: blanchedalmond;text-decoration:wavy;margin: 20px;}
+.book{display:inline-flex ;flex-direction: column;flex-wrap: wrap;width:500px;height: 500px;margin:20px;background-color:bisque;}
 #about{background-color:beige;color:dimgrey}
