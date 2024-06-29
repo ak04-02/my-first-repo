@@ -14,17 +14,17 @@ footer img{flex-basis: auto;}
 .latest-offer{color:rgb(15, 12, 1);font-size: 40px;}
 .desc-latest-offer{font-size:20px;color:rgb(65, 38, 1);font-weight: 600;}
 #home{box-shadow: none;}
-#home .new ,.opening-hours{display:inline-flex ;flex-direction: column;flex-wrap: wrap;width:500px;height: 500px;margin:20px;background-color:bisque;}
+#home .new ,.opening-hours{display:inline-flex ;flex-direction: column;flex-wrap: wrap;width:400px;height: 500px;margin:20px;background-color:bisque;}
 .img{display:flex;align-self:center;}
 .new1{display:inline-flex;width:200px;padding-left:100px ;text-align: center;color:brown;background-color:chocolate;font-size:100;border-radius:10px;}
 .nav-item-1,.nav-item-2,.nav-item-3,.nav-item-4{padding: 1rem;}
 .logo{display: flex;align-self: center;}
-#menu, .offer,.new,.opening-hours,#about,:hover{transform: scaleX(101%) scaleY(101%);
+#menu, .offer,.new,.opening-hours,.book,#about,:hover{transform: scaleX(103%) scaleY(103%);
     transition: 150ms;
     box-shadow: 5px 5px rgba(17, 17, 17, 0.379);}
-nav:hover{transform: scaleX(101%) scaleY(101%);
+nav:hover{transform: scaleX(103%) scaleY(103%);
     transition: 150ms;
     box-shadow: 5px 5px rgba(17, 17, 17, 0.379);}
     #about{margin: 20px;}
-.book{background-color: blanchedalmond;text-decoration:wavy;margin: 20px;}
+.book{display:inline-flex ;flex-direction: column;flex-wrap: wrap;width:400px;height: 500px;margin:20px;background-color:bisque;}
 #about{background-color:beige;color:dimgrey}
