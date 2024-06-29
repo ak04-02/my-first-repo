@@ -10,7 +10,7 @@ footer img{flex-basis: auto;}
 #menu div{display:block;flex-direction:column;padding: 2rem;}
 #menu h2{font-size: large;}
 #menu h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-weight: bold;color: brown;column-gap:4rem;}
-.offer{display:inline-flex;flex-direction:column;background-image:url("pasta.png");background-position:top;font-size: larger;margin: 20px;width:1100;}
+.offer{display:inline-flex;flex-direction:column;background-image:url("https://github.com/ak04-02/my-first-repo/blob/main/myproject-portfolio/pasta.png?raw=true");background-position:top;font-size: larger;margin: 20px;width:1100;}
 .latest-offer{color:rgb(15, 12, 1);font-size: 40px;}
 .desc-latest-offer{font-size:20px;color:rgb(65, 38, 1);font-weight: 600;}
 #home{box-shadow: none;}
